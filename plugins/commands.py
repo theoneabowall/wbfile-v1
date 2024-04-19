@@ -1,4 +1,4 @@
-# credit @codeflix_bots
+# credit @watchdog_bots
 
 # referal code credit - @VJBots
 
@@ -57,7 +57,7 @@ async def start(client, message):
                     InlineKeyboardButton('• ᴍᴀsᴛᴇʀ •', url="https://t.me/sewxiy"),
                     InlineKeyboardButton('• sᴜᴘᴘᴏʀᴛ •', url='https://t.me/weebs_support')
                 ],[
-                    InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/codeflix_bots")
+                    InlineKeyboardButton('• ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ •', url="https://t.me/watchdog_bots")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply(script.GSTART_TXT.format(message.from_user.mention if message.from_user else message.chat.title, temp.U_NAME, temp.B_NAME), reply_markup=reply_markup, disable_web_page_preview=True)
@@ -283,7 +283,7 @@ async def start(client, message):
                                 InlineKeyboardButton('• ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ •', callback_data=f'generate_stream_link:{file_id}'),
                             ],
                             [
-                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/codeflix_bots') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/watchdog_bots') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -302,7 +302,7 @@ async def start(client, message):
                                 InlineKeyboardButton('• ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ •', callback_data=f'generate_stream_link:{file_id}'),
                             ],
                             [
-                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/codeflix_bots') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/watchdog_bots') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -491,7 +491,7 @@ async def start(client, message):
               InlineKeyboardButton('🚀 ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ 🧿', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/codeflix_bots') #Don't change anything without contacting me @sewxiy
+              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/watchdog_bots') #Don't change anything without contacting me @sewxiy
              ]
             ]
         )
@@ -567,7 +567,7 @@ async def start(client, message):
               InlineKeyboardButton('• ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ •', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/codeflix_bots') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/watchdog_bots') #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
@@ -630,7 +630,7 @@ async def start(client, message):
               InlineKeyboardButton('• ꜰᴀꜱᴛ ᴅᴏᴡɴʟᴏᴀᴅ / ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ •', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/codeflix_bots') #Don't change anything without contacting me @sewxiy
+              InlineKeyboardButton('📌 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇꜱ ᴄʜᴀɴɴᴇʟ 📌', url=f'https://t.me/watchdog_bots') #Don't change anything without contacting me @sewxiy
              ]
             ]
         )
@@ -1307,7 +1307,7 @@ async def support_command(client, message):
     buttons = [
         [
             InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url="https://t.me/weebs_support"),
-            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/codeflix_bots")
+            InlineKeyboardButton("ᴜᴘᴅᴀᴛᴇs", url="https://t.me/watchdog_bots")
         ]
     ]
     reply_markup = InlineKeyboardMarkup(buttons)
