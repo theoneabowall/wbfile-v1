@@ -1,4 +1,4 @@
-# codes added by @team_netflix
+# codes added by @watchdog_bots
 # use with proper credits
 
 from pyrogram import Client, filters, enums
