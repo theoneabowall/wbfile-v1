@@ -1285,7 +1285,7 @@ async def ginfo(bot, message):
 async def donate_command(client, message):
     buttons = [
         [
-            InlineKeyboardButton("• ᴅᴏɴᴀᴛᴇ • ", url="https://t.me/OtakuFlix_Network/4640"),
+            InlineKeyboardButton("• ᴅᴏɴᴀᴛᴇ • ", url="https://t.me/wd_link/4640"),
             InlineKeyboardButton("• sᴜᴘᴘᴏʀᴛ •", url="https://t.me/watchdog_bots")
         ]
     ]

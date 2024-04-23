@@ -59,7 +59,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                                                                           InlineKeyboardButton('ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/OtakuFlix_Network/4639'),
+                                                                           InlineKeyboardButton('ᴘʀᴇᴍɪᴜᴍ', url='https://t.me/wd_link/4639'),
                                                                            InlineKeyboardButton('ᴜᴘᴅᴀᴛᴇꜱ', url='https://telegram.me/watchdog_bots')
                                                                         ]]
                                                  ),
